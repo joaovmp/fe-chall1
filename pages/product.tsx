@@ -9,7 +9,7 @@ import Layout from './components/layout'
 
 
 
-const Home: NextPage = (dados) => {
+const Product: NextPage = (dados) => {
   return (
     <div className={styles.container}>
        
@@ -22,4 +22,4 @@ const Home: NextPage = (dados) => {
 
 
 
-export default Home
+export default Product
